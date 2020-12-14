@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "productos": [
     {
-      "id": 1,
-      "title": "hello"
+     "id": "1",
+      "nombre": "Lapiz",
+      "descripcion": "Lapiz marca Norma, punta fina",
+      "photo": "https://officemax.vteximg.com.br/arquivos/ids/163353-1000-1000/64190_2.jpg?v=636211533316300000",
+      "precio":1000,
+      "cantidad":10
     }
   ],
   "profile": {
