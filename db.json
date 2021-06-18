@@ -23,6 +23,14 @@
       "photo": "http://d26lpennugtm8s.cloudfront.net/stores/399/204/products/marcador-borraseco-pelikan-424-negro1-d3261a35d5feda2a4d15124496980298-640-0.jpg",
       "precio":3000,
       "cantidad":8
+    },
+    {
+      "id": "4",
+      "nombre": "Lapicero",
+      "descripcion": "Marcador borrable, para tablero acrilico",
+      "photo": "http://d26lpennugtm8s.cloudfront.net/stores/399/204/products/marcador-borraseco-pelikan-424-negro1-d3261a35d5feda2a4d15124496980298-640-0.jpg",
+      "precio":3000,
+      "cantidad":8
     }
   ],
   "profile": {
