@@ -1,42 +1,29 @@
 [
     {
-    "descripcion": "Esta es la descripción",
+   "descripcion": "Esta es la descripción",
+ "id": "124326",
+imagen:"https://zigla.la/blog/wp-content/uploads/2018/02/Foto-Tenderos-800x480.jpg",
     "latitud": 324243.0,
-    "longitud": 675567.0,
-    "nit": "124326",
+    "longitud": 675567.0,   
     "nombre": "Tienda Mauro 2",
     "telefono": "34232523"
   },
   {
-    "descripcion": "verduras y Frutas",
-    "latitud": 123456.0,
-    "longitud": 12345.0,
-    "nit": "3456721",
-    "nombre": "Don Jose",
-    "telefono": "34156789"
+    "descripcion": "Esta es la descripción",
+ "id": "124326",
+imagen:"https://zigla.la/blog/wp-content/uploads/2018/02/Foto-Tenderos-800x480.jpg",
+    "latitud": 324243.0,
+    "longitud": 675567.0,   
+    "nombre": "Tienda Mauro 2",
+    "telefono": "34232523"
   },
   {
-    "descripcion": "verduras y Frutas",
-    "latitud": 123456.0,
-    "longitud": 12345.0,
-    "nit": "3456722",
-    "nombre": "Don Jose",
-    "telefono": "34156789"
-  },
-  {
-    "descripcion": "verduras y Frutas",
-    "latitud": 123456.0,
-    "longitud": 12345.0,
-    "nit": "3456722",
-    "nombre": "Don Jose",
-    "telefono": "34156789"
-  },
-  {
-    "descripcion": "Venta de partes humanas a domicilio ",
-    "latitud": -12436243,
-    "longitud": 12323122,
-    "nit": "7676467",
-    "nombre": "Exito",
-    "telefono": "3244541524"
+    "descripcion": "Esta es la descripción",
+ "id": "124326",
+imagen:"https://zigla.la/blog/wp-content/uploads/2018/02/Foto-Tenderos-800x480.jpg",
+    "latitud": 324243.0,
+    "longitud": 675567.0,   
+    "nombre": "Tienda Mauro 2",
+    "telefono": "34232523"
   }
 ]
